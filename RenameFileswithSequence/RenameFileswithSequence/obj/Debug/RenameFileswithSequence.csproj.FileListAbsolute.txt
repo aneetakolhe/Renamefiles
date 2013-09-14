@@ -1,0 +1,5 @@
+c:\users\anita\documents\visual studio 2012\Projects\RenameFileswithSequence\RenameFileswithSequence\bin\Debug\RenameFileswithSequence.exe
+c:\users\anita\documents\visual studio 2012\Projects\RenameFileswithSequence\RenameFileswithSequence\bin\Debug\RenameFileswithSequence.pdb
+c:\users\anita\documents\visual studio 2012\Projects\RenameFileswithSequence\RenameFileswithSequence\obj\Debug\RenameFileswithSequence.csprojResolveAssemblyReference.cache
+c:\users\anita\documents\visual studio 2012\Projects\RenameFileswithSequence\RenameFileswithSequence\obj\Debug\RenameFileswithSequence.exe
+c:\users\anita\documents\visual studio 2012\Projects\RenameFileswithSequence\RenameFileswithSequence\obj\Debug\RenameFileswithSequence.pdb
