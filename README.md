@@ -10,6 +10,7 @@ Desired format - "data-script-001.sql", "data-script-002.sql" and so on...
 
 This program helps to rename the file in that specific format.
 
-Inputs to provide:
+All files are in the same folder.
 
+Changes to be made according to user's Source path, Destination path and desired extension.
 Source path, Destination path, desired extension.
