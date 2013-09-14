@@ -1,4 +1,4 @@
-Renamefiles
+Change extension and Renamefiles 
 ===========
 
 Rename a file in specific format.
